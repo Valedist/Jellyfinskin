@@ -22,7 +22,7 @@
 /*Style backdrop*/
 .backdropImage {
   filter: blur(0px) saturate(120%) contrast(120%) brightness(40%) !important;
-  transform: scale(1.05);
+  transform: scale(1);
 }
 
 .detailPageSecondaryContainer {
